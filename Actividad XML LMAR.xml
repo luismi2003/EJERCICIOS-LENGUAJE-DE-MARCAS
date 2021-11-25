@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+
+  <libro category="historia">
+    <titulo lang="es">Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</author>
+    <año>1605</año>
+    <precio>13.20</precio>
+  </libro>
+
+  <book category="deporte">
+    <titulo lang="es">El factor humano</titulo>
+    <autor>John Carlin</autor>
+    <año>1978</año>
+    <precio>19.00</precio>
+  </libro>
+
+  <libro category="crimen">
+    <title lang="es">Crimen y Castigo</title>
+    <autor>Fiódor Dostoyevski</autor>
+    <año>1866</año>
+    <precio>10.40</precio>
+  </libro>
+
+  <libro category="ciencia ficcion">
+    <titulo lang="en">Dune</titulo>
+    <autor>Frank Herbert</autor>
+    <año>1965</año>
+    <precio>11.35</precio>
+  </libro>
+
+</biblioteca>
