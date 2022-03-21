@@ -1,0 +1,44 @@
+<!DOCTYPEhtml >
+< html  lang =" es " >
+< cabeza >
+    < juego de caracteres meta  =" UTF-8 " >
+    < meta  http-equiv =" X-UA-Compatible " content =" IE=edge " >
+    < meta  name =" viewport " content =" ancho=ancho-del-dispositivo, escala-inicial=1.0 " >
+    < título > CSS_act5 </ título >
+    < enlace  rel =" hoja de estilo " href =" estilos5.css " >
+</ cabeza >
+< cuerpo >
+    < estilo de tabla  =" ancho: 50% " >
+        < tr >
+          < th > Nombre </ th >
+          < clase th  =" rojo " > rojo </ th > 
+          < clase th  =" verde " > Verde </ th >
+          < clase th  =" azul " > azul </ th >
+        </ tr >
+        < tr  clase =" lsand " >
+          < td > Arena clara </ td >
+          < td > 254 </ td >
+          < td > 255 </ td >
+          < td > 239 </ td >
+        </ tr >
+        < tr  clase =" beige " >
+          < td > Beige </ td >
+          < td > 245 </ td >
+          < td > 245 </ td >
+          < td > 220 </ td >
+        </ tr >
+        < tr  clase =" chocolate " >
+          < td > Chocolate </ td >
+          < td > 210 </ td >
+          < td > 105 </ td >
+          < td > 30 </ td >
+        </ tr >
+        < tr  clase =" gris " >
+            < td > gris </ td >
+            < td > 190 </ td >
+            < td > 190 </ td >
+            < td > 190 </ td >
+          </ tr >
+      </ mesa >
+</ cuerpo >
+</ html >

@@ -1,0 +1,34 @@
+<!DOCTYPEhtml >
+< html  lang =" es " >
+< cabeza >
+    < juego de caracteres meta  =" UTF-8 " >
+    < meta  http-equiv =" X-UA-Compatible " content =" IE=edge " >
+    < meta  name =" viewport " content =" ancho=ancho-del-dispositivo, escala-inicial=1.0 " >
+    < enlace  rel =" hoja de estilo " href =" css_styles3.css " >
+    < título > CV_css_act3 </ título >
+</ cabeza >
+< cuerpo >
+    < div  id =" contenido " >
+
+        < div  clase =" columna1 " >
+            < p > < b > Curriculum Vitae </ b > < br > < br > < br > < br > < br >
+
+                ¡Bienvenido a mi currículum!
+
+            </ p >
+        </ div >
+
+        < div  clase =" columna " >
+                < a  href =" datos_personales.html " > Datos personales </ a > < br > < br >
+                < a  href =" datos_personales.html " > Educación </ a > < br > < br >
+                < a  href =" datos_personales.html " > Experiencia profesional </ a > < br > < br >
+
+        </ div >
+
+
+
+
+
+    </ div >
+</ cuerpo >
+</ html >

@@ -1,0 +1,53 @@
+<!DOCTYPEhtml >
+< html >
+< cabeza >
+< enlace  rel =" hoja de estilo " href =" estilos4.css " >
+</ cabeza >
+< cuerpo >
+
+< clase de tabla  =" tabla " >
+< caption  class =" caption " > Tabla 1.1 Clientes </ caption >
+  < tr  class =" títulos " >
+    < th > Empresa </ th >
+    < th > Contacto </ th >
+    < th > País </ th >
+  </ tr >
+  < tr >
+    < td > Alfreds Futterkiste </ td >
+    < td > María Anders </ td >
+    < td > Alemania </ td >
+  </ tr >
+  < tr  clase =" alt " >
+    < td > Berglunds snabbköp </ td >
+    < td > Cristina Berglund </ td >
+    < td > Suecia </ td >
+  </ tr >
+  < tr >
+    < td > Centro comercial Moctezuma </ td >
+    < td > Francisco Chang </ td >
+    < td > México </ td >
+  </ tr >
+  < tr  clase =" alt " >
+    < td > Ernst Handel </ td >
+    < td > Roland Mendel </ td >
+    < td > Austria </ td >
+  </ tr >
+  < tr >
+    < td > Comercio insular </ td >
+    < td > Helen Bennett </ td >
+    < td > Reino Unido </ td >
+  </ tr >
+  < tr >
+    < td > Magazzini Alimentari Rioniti </ td >
+    < td > Giovanni Rovelli </ td >
+    < td > Italia </ td >
+  </ tr >
+  < tr >
+    < td > Norte/Sur </ td >
+    < td > Simón Crowther </ td >
+    < td > Reino Unido </ td >
+  </ tr >
+</ mesa >
+
+</ cuerpo >
+</ html >

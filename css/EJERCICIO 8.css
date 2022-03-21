@@ -1,0 +1,35 @@
+<!DOCTYPEhtml >
+< html >
+< cabeza >
+    < enlace  rel =" hoja de estilo " href =" estilos8.css " >
+</ cabeza >
+< cuerpo >
+< div  clase =" contenedor " >
+  < div  clase =" uno " > 1 </ div >
+  < div  clase =" dos " > 2 </ div >  
+  < div  clase =" tres " > 3 </ div >  
+  < div  clase =" cuatro " > 4 </ div >    
+</ div >
+< hora >
+< div  clase =" contenedor " >
+  < div  clase =" s_uno " > 1 </ div >
+  < div  clase =" s_dos " > 2 </ div >  
+  < div  clase =" s_tres " > 3 </ div >  
+  < div  clase =" s_cuatro " > 4 </ div >   
+</ div >
+< hora >
+< div  clase =" contenedor " >
+    < div  clase =" junto_uno " > 1 </ div >
+    < div  class =" junto_dos " > 2 </ div >  
+    < div  clase =" junto_tres " > 3 </ div >  
+    < div  class =" junto_cuatro " > 4 </ div > 
+</ div > 
+< hora >
+< div  clase =" contenedor " >
+    < div  clase =" cruz_uno " > 1 </ div >
+    < div  clase =" cruz_dos " > 2 </ div >  
+    < div  clase =" cruz_tres " > 3 </ div >  
+    < div  clase =" cruz_cuatro " > 4 </ div > 
+</ div > 
+</ cuerpo >
+</ html >
